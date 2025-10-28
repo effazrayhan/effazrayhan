@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./profile.jpg" alt="Effaz Rayhan" width="150" height="150"/>
+  <img src="./profile.jpg" alt="Effaz Rayhan" width="350" height="350"/>
 </p>
 
 # Hi, I’m Effaz Rayhan Anando 👋

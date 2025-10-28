@@ -26,7 +26,7 @@ I’m a **passionate Software Engineer and Full-Stack Web Developer** from Bangl
 ## 🚀 Projects
 Here are some of my notable projects:
 
-- **[AmaderCartBD](https://github.com/effazrayhan/AmaderCartBD)** – Full-fledged e-commerce website with modern UI/UX.  
+- **[AmaderCartBD](https://amadercartbd.com)** – Full-fledged e-commerce website with modern UI/UX.  
 - **[Connecto](https://github.com/effazrayhan/Connecto)** – Secure chat system using C++ socket programming and multithreading.  
 - **[DesignPatterns](https://github.com/effazrayhan/DesignPatterns)** – Hands-on examples of Java design patterns.  
 - **[JavaFiles](https://github.com/effazrayhan/javafiles)** – Collection of Java practice programs and exercises.  

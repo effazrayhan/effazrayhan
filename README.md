@@ -10,7 +10,7 @@ I’m a **passionate Software Engineer and Full-Stack Web Developer** from Bangl
 
 ## 🎓 Academic Info
 - **Institution:** Institute of Information Technology (IIT), University of Dhaka  
-- **Degree:** B.Sc. in Software Engineering  
+- **Degree:** B.Sc. in Software Engineering  (5th Semester)
 - **Interests:** Web Development, Data Structures & Algorithms, Cybersecurity, Database Systems
 
 ---
@@ -42,4 +42,7 @@ Here are some of my notable projects:
   <a href="https://www.linkedin.com/in/effazrayhan"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="https://twitter.com/effazrayhan"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
   <a href="https://github.com/effazrayhan"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="https://facebook.com/effazrayhan.anando">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
+  </a>
 </p>
